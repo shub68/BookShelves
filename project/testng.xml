@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="SmokeTest">
+	<groups>
+	<run>
+	<include name ="Smoke"></include>
+	</run>
+	</groups>
+	<classes>
+			<class name="bookshelfAutomationTest.mainTest" />
+		</classes>
+	</test> <!-- Test -->
+	<test name="RegressionTest">
+	<groups>
+	<run>
+	<include name ="Regression"></include>
+	</run>
+	</groups>
+	<classes>
+			<class name="bookshelfAutomationTest.mainTest" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

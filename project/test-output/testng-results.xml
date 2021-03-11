@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[
+The title of the Page: Furniture Online: @Upto 40% Off on Wooden Furniture Online in India at Best Price - Urban Ladder]]>
+    </line>
+    <line>
+      <![CDATA[
+The price of the first three bookshelves below Rs.15000:]]>
+    </line>
+    <line>
+      <![CDATA[Austen Bookshelf/Display Unit:]]>
+    </line>
+    <line>
+      <![CDATA[Rs.10399]]>
+    </line>
+    <line>
+      <![CDATA[Austen Bookshelf/Display Unit:]]>
+    </line>
+    <line>
+      <![CDATA[Rs.10399]]>
+    </line>
+    <line>
+      <![CDATA[Tetris Side Bookshelf/Display Unit:]]>
+    </line>
+    <line>
+      <![CDATA[Rs.6799]]>
+    </line>
+    <line>
+      <![CDATA[
+The submenu list from 'Being at home' column:]]>
+    </line>
+    <line>
+      <![CDATA[Study Chairs]]>
+    </line>
+    <line>
+      <![CDATA[Study Tables]]>
+    </line>
+    <line>
+      <![CDATA[Study Lamps]]>
+    </line>
+    <line>
+      <![CDATA[Study Sets]]>
+    </line>
+    <line>
+      <![CDATA[Sofa Beds]]>
+    </line>
+    <line>
+      <![CDATA[Accent Chairs]]>
+    </line>
+    <line>
+      <![CDATA[Loveseats]]>
+    </line>
+    <line>
+      <![CDATA[Floor Lamps]]>
+    </line>
+    <line>
+      <![CDATA[Day Beds]]>
+    </line>
+    <line>
+      <![CDATA[Balcony Tables]]>
+    </line>
+    <line>
+      <![CDATA[Balcony Swings]]>
+    </line>
+    <line>
+      <![CDATA[Balcony Chairs]]>
+    </line>
+    <line>
+      <![CDATA[Ottomans]]>
+    </line>
+    <line>
+      <![CDATA[
+The price of the first three study chair]]>
+    </line>
+    <line>
+      <![CDATA[Dorsey Study Chair:]]>
+    </line>
+    <line>
+      <![CDATA[Rs.4124]]>
+    </line>
+    <line>
+      <![CDATA[Mika Study Chair:]]>
+    </line>
+    <line>
+      <![CDATA[Rs.10879]]>
+    </line>
+    <line>
+      <![CDATA[Galen Study Chair:]]>
+    </line>
+    <line>
+      <![CDATA[Rs.7699]]>
+    </line>
+    <line>
+      <![CDATA[
+The error message appeared for invalid e-mail: Please include an '@' in the email address. 'Ramgmail.com' is missing an '@'.
+]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-03-11T15:18:31 IST" name="Default suite" finished-at="2021-03-11T15:20:39 IST" duration-ms="128121">
+    <groups>
+    </groups>
+    <test started-at="2021-03-11T15:18:31 IST" name="Default test" finished-at="2021-03-11T15:20:39 IST" duration-ms="128121">
+      <class name="bookshelfAutomationTest.mainTest">
+        <test-method is-config="true" signature="initialSetup()[pri:0, instance:bookshelfAutomationTest.mainTest@161479c6]" started-at="2021-03-11T15:18:31 IST" name="initialSetup" finished-at="2021-03-11T15:18:45 IST" duration-ms="13648" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetup -->
+        <test-method signature="test()[pri:0, instance:bookshelfAutomationTest.mainTest@161479c6]" started-at="2021-03-11T15:18:45 IST" name="test" finished-at="2021-03-11T15:20:38 IST" duration-ms="113219" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[
+The title of the Page: Furniture Online: @Upto 40% Off on Wooden Furniture Online in India at Best Price - Urban Ladder]]>
+            </line>
+            <line>
+              <![CDATA[
+The price of the first three bookshelves below Rs.15000:]]>
+            </line>
+            <line>
+              <![CDATA[Austen Bookshelf/Display Unit:]]>
+            </line>
+            <line>
+              <![CDATA[Rs.10399]]>
+            </line>
+            <line>
+              <![CDATA[Austen Bookshelf/Display Unit:]]>
+            </line>
+            <line>
+              <![CDATA[Rs.10399]]>
+            </line>
+            <line>
+              <![CDATA[Tetris Side Bookshelf/Display Unit:]]>
+            </line>
+            <line>
+              <![CDATA[Rs.6799]]>
+            </line>
+            <line>
+              <![CDATA[
+The submenu list from 'Being at home' column:]]>
+            </line>
+            <line>
+              <![CDATA[Study Chairs]]>
+            </line>
+            <line>
+              <![CDATA[Study Tables]]>
+            </line>
+            <line>
+              <![CDATA[Study Lamps]]>
+            </line>
+            <line>
+              <![CDATA[Study Sets]]>
+            </line>
+            <line>
+              <![CDATA[Sofa Beds]]>
+            </line>
+            <line>
+              <![CDATA[Accent Chairs]]>
+            </line>
+            <line>
+              <![CDATA[Loveseats]]>
+            </line>
+            <line>
+              <![CDATA[Floor Lamps]]>
+            </line>
+            <line>
+              <![CDATA[Day Beds]]>
+            </line>
+            <line>
+              <![CDATA[Balcony Tables]]>
+            </line>
+            <line>
+              <![CDATA[Balcony Swings]]>
+            </line>
+            <line>
+              <![CDATA[Balcony Chairs]]>
+            </line>
+            <line>
+              <![CDATA[Ottomans]]>
+            </line>
+            <line>
+              <![CDATA[
+The price of the first three study chair]]>
+            </line>
+            <line>
+              <![CDATA[Dorsey Study Chair:]]>
+            </line>
+            <line>
+              <![CDATA[Rs.4124]]>
+            </line>
+            <line>
+              <![CDATA[Mika Study Chair:]]>
+            </line>
+            <line>
+              <![CDATA[Rs.10879]]>
+            </line>
+            <line>
+              <![CDATA[Galen Study Chair:]]>
+            </line>
+            <line>
+              <![CDATA[Rs.7699]]>
+            </line>
+            <line>
+              <![CDATA[
+The error message appeared for invalid e-mail: Please include an '@' in the email address. 'Ramgmail.com' is missing an '@'.
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="after()[pri:0, instance:bookshelfAutomationTest.mainTest@161479c6]" started-at="2021-03-11T15:20:38 IST" name="after" finished-at="2021-03-11T15:20:39 IST" duration-ms="903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- bookshelfAutomationTest.mainTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
